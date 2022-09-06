@@ -3,7 +3,7 @@
 1. Install golang v1.11 or above.
 2. Basic understanding of the golang syntax.
 3. Basic understanding of SQL query.
-4. Code Editor (I recommend to use VS Code with Go extension by Microsoft installed)
+4. Code Editor 
 5. Postman for calling APIs
 
 ## PostgreSQL Table
